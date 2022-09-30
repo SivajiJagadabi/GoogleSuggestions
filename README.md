@@ -1,6 +1,8 @@
 In this project, let's build a **Google Search Suggestions** app by applying the concepts we have learned till now.
 
-Link of the page : jsgooglesearch.ccbp.tech
+Link of the page 
+
+jsgooglesearch.ccbp.tech
 
 ### Refer to the image below:
 
