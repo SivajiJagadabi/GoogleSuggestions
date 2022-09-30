@@ -2,7 +2,7 @@ In this project, let's build a **Google Search Suggestions** app by applying the
 
 Link of the page 
 
-jsgooglesearch.ccbp.tech
+https://jsgooglesearch.ccbp.tech
 
 ### Refer to the image below:
 
